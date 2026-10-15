@@ -1,0 +1,93 @@
+﻿Customer_ID,Customer_Name,Market_Type,Country,City,Segment,Default_Currency,Payment_Terms
+C001,Horus Cable Trading,Domestic,Egypt,Minya,Contractor,EGP,Post-dated cheque 90 days
+C002,Al Nour Construction & Electrical,Local,Egypt,10th of Ramadan City,Trader / Distributor,EGP,Net 60
+C003,Salam Cable Trading,Domestic,Egypt,Assiut,Trader / Distributor,EGP,Post-dated cheque 90 days
+C004,Golden Electro-Mechanical,Local,Egypt,New Cairo,Trader / Distributor,EGP,Net 30
+C005,Elite Cable Trading,Domestic,Egypt,Tanta,Real-estate Developer,EGP,Net 60
+C006,Omega Cable Trading,Domestic,egypt,Cairo,EPC Company,EGP,Net 90
+C007,Crescent Construction & Electrical,Domestic,Egypt,Aswan,Contractor,EGP,Post-dated cheque 90 days
+C008,Omega Construction & Electrical,Domestic,Egypt,Minya,Contractor,EGP,Post-dated cheque 90 days
+C009,Golden Construction & Electrical,Domestic,Egypt,Aswan,Industrial Plant,EGP,Net 90
+C010,Zahra Construction & Electrical,Domestic,Egypt,Port Said,Industrial Plant,EGP,Net 30
+C011,Omega Engineering & Contracting,Domestic,Egypt,Sohag,Utility / Distribution Co.,EGP,Net 30
+C012,Vision Industrial Supplies,EXPORT,EGYPT ,Suez,Utility / Distribution Co.,EGP,Post-dated cheque 90 days
+C013,Falcon Electro-Mechanical,Domestic,Egypt,10th of Ramadan City,EPC Company,EGP,Post-dated cheque 90 days
+C014,United Cable Trading,Domestic,Egypt,Port Said,Real-estate Developer,EGP,Net 90
+C015,Elite Construction & Electrical,export,Egypt,Sohag,Real-estate Developer,EGP,Post-dated cheque 90 days
+C016,Nile Star Cable Trading,Domestic,Egypt,Minya,Trader / Distributor,EGP,Net 30
+C017,DELTA POWER TRADING  ,Domestic,Egypt,10th of Ramadan City,Industrial Plant,EGP,Post-dated cheque 90 days
+C018,Crescent Engineering & Contracting,Domestic,Egypt,Tanta,EPC Company,EGP,Post-dated cheque 90 days
+C019,Modern Construction & Electrical,Domestic,Egypt,Sohag,Real-estate Developer,EGP,Cash on delivery
+C020,Delta Cable Trading,Domestic,EGYPT ,Assiut,Real-estate Developer,EGP,Net 30
+C021,Modern Cable Trading,Domestic,Egypt,Suez,Utility / Distribution Co.,EGP,Post-dated cheque 90 days
+C022,United Electro-Mechanical,Domestic,Egypt,10th of Ramadan City,,EGP,Post-dated cheque 90 days
+C023,Crescent Electro-Mechanical,Domestic,Egypt,Mansoura,EPC Company,EGP,Post-dated cheque 90 days
+C024,Sahara Construction & Electrical,Domestic,Egypt,Cairo,Contractor,EGP,Net 30
+C025,Modern Electro-Mechanical,Domestic,Egypt,Ismailia,Utility / Distribution Co.,EGP,Net 60
+C026,Horus Electrical Contracting,Domestic,Egypt,Sohag,Industrial Plant,EGP,Net 90
+C027,Crescent Power Trading,EXPORT,egypt,Cairo,Trader / Distributor,EGP,Cash on delivery
+C028,Sahara Engineering & Contracting,Domestic,Egypt,Suez,Industrial Plant,EGP,Net 60
+C029,Vision Cable Trading,Domestic,Egypt,Giza,Real-estate Developer,EGP,Net 60
+C030,Sahara Cable Trading,Domestic,Egypt,Port Said,Real-estate Developer,EGP,Post-dated cheque 90 days
+C031,Salam Electrical Contracting,Domestic,Egypt,Giza,Real-estate Developer,EGP,Net 30
+C032,Delta Energy Solutions,Domestic,egypt,10th of Ramadan City,,EGP,Net 30
+C033,ATLAS CABLE TRADING  ,Domestic,Egypt,Suez,Trader / Distributor,EGP,Net 30
+C034,United Construction & Electrical,Domestic,Egypt,Ismailia,Industrial Plant,EGP,Net 60
+C035,Zahra Energy Solutions,Domestic,Egypt,Suez,Industrial Plant,EGP,Net 60
+C036,Pyramid Industrial Supplies,Domestic,Egypt,Cairo,Utility / Distribution Co.,EGP,Net 60
+C037,Delta Electrical Contracting,Domestic,Egypt,Suez,EPC Company,EGP,Net 60
+C038,United Electrical Contracting,Domestic,Egypt,Alexandria,EPC Company,EGP,Cash on delivery
+C039,Nile Star Power Trading,Domestic,Egypt,Alexandria,EPC Company,EGP,Net 60
+C040,Zahra Industrial Supplies,Domestic,Egypt,Minya,Contractor,EGP,Post-dated cheque 90 days
+C041,Gulf Bridge Power Trading,Domestic,Egypt,Assiut,Utility / Distribution Co.,EGP,Net 90
+C042,Zahra Cable Trading,Domestic,Egypt,Suez,Utility / Distribution Co.,EGP,Net 90
+C043,Golden Cable Trading,Domestic,Egypt,Minya,Contractor,EGP,Net 60
+C044,Falcon Electrical Contracting,Domestic,Egypt,Giza,Real-estate Developer,EGP,Net 90
+C045,Zahra Power Trading,Domestic,Egypt,Cairo,Trader / Distributor,EGP,Net 60
+C046,Elite Engineering & Contracting,Domestic,egypt,Ismailia,Trader / Distributor,EGP,Cash on delivery
+C047,Orient Power Trading,Domestic,Egypt,Giza,Trader / Distributor,EGP,Net 30
+C048,Horus Energy Solutions,Domestic,Egypt,Tanta,Industrial Plant,EGP,Net 30
+C049,GULF BRIDGE ENERGY SOLUTIONS  ,Domestic,egypt,Alexandria,Trader / Distributor,EGP,Net 90
+C050,PYRAMID ELECTRICAL CONTRACTING  ,domestic,Egypt,Aswan,Trader / Distributor,EGP,Post-dated cheque 90 days
+C051,Al Nour Electrical Contracting,Domestic,Egypt,Giza,Utility / Distribution Co.,EGP,Net 30
+C052,Gulf Bridge Electro-Mechanical,Domestic,Egypt,Giza,EPC Company,EGP,Cash on delivery
+C053,Omega Energy Solutions Co.,Export,Nigeria,Abuja,Real-estate Developer,USD,LC at sight
+C054,Salam Energy Solutions Co.,Export,Sudan,Khartoum,Industrial Plant,USD,Open account 60 days
+C055,Zahra Electro-Mechanical Co.,Export,Tanzania,Dodoma,Industrial Plant,USD,30% advance + 70% before shipment
+C056,Salam Cable Trading Co.,Export,Tanzania,Dodoma,Contractor,USD,Open account 60 days
+C057,Al Nour Cable Trading Co.,Export,Kenya,Mombasa,Trader / Distributor,USD,LC at sight
+C058,Gulf Bridge Industrial Supplies Co.,Export,Kenya,Mombasa,,USD,LC at sight
+C059,Elite Energy Solutions Co.,EXPORT,Tanzania,Dar es Salaam,Industrial Plant,USD,LC at sight
+C060,Horus Power Trading Co.,Export,Jordan,Amman,Contractor,USD,LC at sight
+C061,Sahara Energy Solutions Co.,domestic,Sudan,Port Sudan,Contractor,USD,Open account 60 days
+C062,Omega Power Trading Co.,Export,Iraq,Basra,,USD,Open account 60 days
+C063,Salam Engineering & Contracting Co.,Export,Iraq,Basra,EPC Company,USD,LC 60 days
+C064,Sahara Power Trading Co.,Export,Sudan,Khartoum,EPC Company,USD,Open account 60 days
+C065,Orient Power Trading Co.,Local,Sudan,Khartoum,Contractor,USD,LC at sight
+C066,Orient Construction & Electrical Co.,Export,Libya,Misrata,Trader / Distributor,USD,30% advance + 70% before shipment
+C067,Sahara Electro-Mechanical Co.,Local,Libya,Tripoli,Industrial Plant,USD,LC at sight
+C068,Golden Cable Trading LLC,domestic,UAE,Abu Dhabi,EPC Company,USD,30% advance + 70% before shipment
+C069,Delta Electrical Contracting LLC,Export,Saudi Arabia,Dammam,Utility / Distribution Co.,USD,Open account 60 days
+C070,Delta Engineering & Contracting Co.,Export,Jordan,Amman,EPC Company,USD,Open account 60 days
+C071,Crescent Engineering & Contracting Co.,Export,Tanzania,Dodoma,Trader / Distributor,USD,LC 60 days
+C072,Crescent Energy Solutions LLC,Export,Saudi Arabia,Riyadh,EPC Company,USD,Open account 60 days
+C073,Elite Construction & Electrical Co.,Export,Nigeria,Abuja,Utility / Distribution Co.,USD,LC 60 days
+C074,Zahra Power Trading LLC,Export,UAE,Abu Dhabi,Contractor,USD,30% advance + 70% before shipment
+C075,Golden Industrial Supplies Co.,Export,Jordan,Amman,EPC Company,USD,LC 60 days
+C076,Pyramid Cable Trading Co.,Export,Libya,Misrata,Industrial Plant,USD,30% advance + 70% before shipment
+C077,Al Nour Engineering & Contracting Co.,Export,Sudan,Port Sudan,Industrial Plant,USD,LC at sight
+C078,Salam Industrial Supplies Co.,domestic,Iraq,Erbil,Industrial Plant,USD,LC 60 days
+C079,Golden Electro-Mechanical Co.,Export,Nigeria,Lagos,Utility / Distribution Co.,USD,Open account 60 days
+C080,Atlas Cable Trading Co.,Export,Libya,Misrata,,USD,LC 60 days
+C081,RED SEA CABLE TRADING CO.  ,Export,Iraq,Basra,Industrial Plant,USD,30% advance + 70% before shipment
+C082,Crescent Power Trading Co.,Export,Nigeria,Abuja,Utility / Distribution Co.,USD,LC at sight
+C083,Vision Construction & Electrical Co.,Export,Jordan,Aqaba,Trader / Distributor,USD,LC 60 days
+C084,Golden Electrical Contracting Co.,Export,Libya,Tripoli,Trader / Distributor,USD,LC 60 days
+C085,Red Sea Electrical Contracting Co.,Export,Nigeria,Lagos,Industrial Plant,USD,LC at sight
+C086,Crescent Electro-Mechanical LLC,Export,Saudi Arabia,Riyadh,Trader / Distributor,USD,LC 60 days
+C087,Elite Power Trading Co.,domestic,Libya,Benghazi,Industrial Plant,USD,LC 60 days
+C088,Atlas Construction & Electrical Co.,Export,Libya,Tripoli,,USD,LC at sight
+C089,Vision Cable Trading Co.,Export,Kenya,Nairobi,Trader / Distributor,USD,Open account 60 days
+C090,United Electro-Mechanical Co.,Export,Nigeria,Lagos,Trader / Distributor,USD,Open account 60 days
+C091,Pyramid Electro-Mechanical Co.,Export,Ethiopia,Addis Ababa,Real-estate Developer,USD,30% advance + 70% before shipment
+C092,Orient Engineering & Contracting Co.,Export,Kenya,Nairobi,,USD,Open account 60 days

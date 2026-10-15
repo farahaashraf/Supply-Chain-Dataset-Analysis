@@ -1,0 +1,721 @@
+﻿Month,Material_ID,Material_Name,Unit,Price_USD_per_Unit,Price_Basis,WB_Annual_Avg_USD_t
+2021-01-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8368.73,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9317.0
+2021-01-01,RM02,Aluminium Rod (EC grade),ton,2454.97,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2473.0
+2021-01-01,RM03,XLPE Insulation Compound,ton,2373.4,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-01-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1124.07,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-01-01,RM05,Semiconductive Compound (inner/outer screen),ton,3101.73,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-01-01,RM06,HDPE / MDPE Sheathing Compound,ton,1267.63,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-01-01,RM07,LSHF Compound,ton,2993.81,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-01-01,RM08,Polypropylene Filler & Tape,ton,1105.57,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-01-01,RM09,"Copper Tape (screen, CTS)",ton,9495.28,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9317.0
+2021-01-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,990.03,ESTIMATE,
+2021-01-01,RM11,Galvanized Steel Strip (armour),ton,915.24,ESTIMATE,
+2021-01-01,RM12,Wooden / Steel Cable Drum,unit,98.4,ESTIMATE,
+2021-02-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8774.81,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9317.0
+2021-02-01,RM02,Aluminium Rod (EC grade),ton,2482.68,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2473.0
+2021-02-01,RM03,XLPE Insulation Compound,ton,2375.89,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-02-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1116.71,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-02-01,RM05,Semiconductive Compound (inner/outer screen),ton,3225.57,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-02-01,RM06,HDPE / MDPE Sheathing Compound,ton,1225.64,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-02-01,RM07,LSHF Compound,ton,3065.25,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-02-01,RM08,Polypropylene Filler & Tape,ton,1116.74,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-02-01,RM09,"Copper Tape (screen, CTS)",ton,9956.03,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9317.0
+2021-02-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,931.97,ESTIMATE,
+2021-02-01,RM11,Galvanized Steel Strip (armour),ton,927.95,ESTIMATE,
+2021-02-01,RM12,Wooden / Steel Cable Drum,unit,97.94,ESTIMATE,
+2021-03-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8651.13,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9317.0
+2021-03-01,RM02,Aluminium Rod (EC grade),ton,2529.96,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2473.0
+2021-03-01,RM03,XLPE Insulation Compound,ton,2431.71,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-03-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1158.99,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-03-01,RM05,Semiconductive Compound (inner/outer screen),ton,3162.89,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-03-01,RM06,HDPE / MDPE Sheathing Compound,ton,1231.67,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-03-01,RM07,LSHF Compound,ton,3050.1,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-03-01,RM08,Polypropylene Filler & Tape,ton,1111.37,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-03-01,RM09,"Copper Tape (screen, CTS)",ton,9815.7,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9317.0
+2021-03-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,933.81,ESTIMATE,
+2021-03-01,RM11,Galvanized Steel Strip (armour),ton,915.29,ESTIMATE,
+2021-03-01,RM12,Wooden / Steel Cable Drum,unit,92.29,ESTIMATE,
+2021-04-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9444.9,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9317.0
+2021-04-01,RM02,Aluminium Rod (EC grade),ton,2548.3,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2473.0
+2021-04-01,RM03,XLPE Insulation Compound,ton,2395.35,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-04-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1120.32,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-04-01,RM05,Semiconductive Compound (inner/outer screen),ton,3177.34,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-04-01,RM06,HDPE / MDPE Sheathing Compound,ton,1266.21,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-04-01,RM07,LSHF Compound,ton,3089.6,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-04-01,RM08,Polypropylene Filler & Tape,ton,1161.84,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-04-01,RM09,"Copper Tape (screen, CTS)",ton,10716.33,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9317.0
+2021-04-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,967.86,ESTIMATE,
+2021-04-01,RM11,Galvanized Steel Strip (armour),ton,883.04,ESTIMATE,
+2021-04-01,RM12,Wooden / Steel Cable Drum,unit,100.06,ESTIMATE,
+2021-05-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9872.75,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9317.0
+2021-05-01,RM02,Aluminium Rod (EC grade),ton,2630.25,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2473.0
+2021-05-01,RM03,XLPE Insulation Compound,ton,2378.46,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-05-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1173.22,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-05-01,RM05,Semiconductive Compound (inner/outer screen),ton,3188.99,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-05-01,RM06,HDPE / MDPE Sheathing Compound,ton,1235.73,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-05-01,RM07,LSHF Compound,ton,3125.15,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-05-01,RM08,Polypropylene Filler & Tape,ton,1119.04,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-05-01,RM09,"Copper Tape (screen, CTS)",ton,11201.77,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9317.0
+2021-05-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,960.85,ESTIMATE,
+2021-05-01,RM11,Galvanized Steel Strip (armour),ton,887.84,ESTIMATE,
+2021-05-01,RM12,Wooden / Steel Cable Drum,unit,97.48,ESTIMATE,
+2021-06-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10019.85,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9317.0
+2021-06-01,RM02,Aluminium Rod (EC grade),ton,2901.64,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2473.0
+2021-06-01,RM03,XLPE Insulation Compound,ton,2380.61,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-06-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1128.55,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-06-01,RM05,Semiconductive Compound (inner/outer screen),ton,3221.26,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-06-01,RM06,HDPE / MDPE Sheathing Compound,ton,1244.24,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-06-01,RM07,LSHF Compound,ton,3063.07,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-06-01,RM08,Polypropylene Filler & Tape,ton,1145.22,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-06-01,RM09,"Copper Tape (screen, CTS)",ton,11368.68,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9317.0
+2021-06-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,971.59,ESTIMATE,
+2021-06-01,RM11,Galvanized Steel Strip (armour),ton,911.39,ESTIMATE,
+2021-06-01,RM12,Wooden / Steel Cable Drum,unit,97.03,ESTIMATE,
+2021-07-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10213.84,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9317.0
+2021-07-01,RM02,Aluminium Rod (EC grade),ton,2932.18,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2473.0
+2021-07-01,RM03,XLPE Insulation Compound,ton,2385.44,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-07-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1172.6,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-07-01,RM05,Semiconductive Compound (inner/outer screen),ton,3206.35,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-07-01,RM06,HDPE / MDPE Sheathing Compound,ton,1266.45,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-07-01,RM07,LSHF Compound,ton,3051.7,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-07-01,RM08,Polypropylene Filler & Tape,ton,1050.55,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-07-01,RM09,"Copper Tape (screen, CTS)",ton,11588.77,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9317.0
+2021-07-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,960.59,ESTIMATE,
+2021-07-01,RM11,Galvanized Steel Strip (armour),ton,902.07,ESTIMATE,
+2021-07-01,RM12,Wooden / Steel Cable Drum,unit,94.3,ESTIMATE,
+2021-08-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10268.77,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9317.0
+2021-08-01,RM02,Aluminium Rod (EC grade),ton,3003.91,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2473.0
+2021-08-01,RM03,XLPE Insulation Compound,ton,2439.91,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-08-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1164.12,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-08-01,RM05,Semiconductive Compound (inner/outer screen),ton,3163.49,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-08-01,RM06,HDPE / MDPE Sheathing Compound,ton,1224.39,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-08-01,RM07,LSHF Compound,ton,2994.07,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-08-01,RM08,Polypropylene Filler & Tape,ton,1119.31,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-08-01,RM09,"Copper Tape (screen, CTS)",ton,11651.11,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9317.0
+2021-08-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,951.45,ESTIMATE,
+2021-08-01,RM11,Galvanized Steel Strip (armour),ton,902.5,ESTIMATE,
+2021-08-01,RM12,Wooden / Steel Cable Drum,unit,95.32,ESTIMATE,
+2021-09-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10137.5,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9317.0
+2021-09-01,RM02,Aluminium Rod (EC grade),ton,2922.19,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2473.0
+2021-09-01,RM03,XLPE Insulation Compound,ton,2426.64,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-09-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1160.13,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-09-01,RM05,Semiconductive Compound (inner/outer screen),ton,3161.3,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-09-01,RM06,HDPE / MDPE Sheathing Compound,ton,1257.07,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-09-01,RM07,LSHF Compound,ton,3103.75,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-09-01,RM08,Polypropylene Filler & Tape,ton,1104.53,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-09-01,RM09,"Copper Tape (screen, CTS)",ton,11502.16,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9317.0
+2021-09-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,964.94,ESTIMATE,
+2021-09-01,RM11,Galvanized Steel Strip (armour),ton,911.45,ESTIMATE,
+2021-09-01,RM12,Wooden / Steel Cable Drum,unit,95.2,ESTIMATE,
+2021-10-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10051.66,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9317.0
+2021-10-01,RM02,Aluminium Rod (EC grade),ton,3008.71,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2473.0
+2021-10-01,RM03,XLPE Insulation Compound,ton,2394.57,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-10-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1165.92,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-10-01,RM05,Semiconductive Compound (inner/outer screen),ton,3194.71,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-10-01,RM06,HDPE / MDPE Sheathing Compound,ton,1232.07,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-10-01,RM07,LSHF Compound,ton,3063.93,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-10-01,RM08,Polypropylene Filler & Tape,ton,1114.2,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-10-01,RM09,"Copper Tape (screen, CTS)",ton,11404.76,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9317.0
+2021-10-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,937.44,ESTIMATE,
+2021-10-01,RM11,Galvanized Steel Strip (armour),ton,888.85,ESTIMATE,
+2021-10-01,RM12,Wooden / Steel Cable Drum,unit,92.05,ESTIMATE,
+2021-11-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10220.91,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9317.0
+2021-11-01,RM02,Aluminium Rod (EC grade),ton,2893.36,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2473.0
+2021-11-01,RM03,XLPE Insulation Compound,ton,2371.85,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-11-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1132.76,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-11-01,RM05,Semiconductive Compound (inner/outer screen),ton,3124.67,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-11-01,RM06,HDPE / MDPE Sheathing Compound,ton,1241.74,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-11-01,RM07,LSHF Compound,ton,3036.22,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-11-01,RM08,Polypropylene Filler & Tape,ton,1119.33,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-11-01,RM09,"Copper Tape (screen, CTS)",ton,11596.81,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9317.0
+2021-11-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,946.44,ESTIMATE,
+2021-11-01,RM11,Galvanized Steel Strip (armour),ton,886.88,ESTIMATE,
+2021-11-01,RM12,Wooden / Steel Cable Drum,unit,93.63,ESTIMATE,
+2021-12-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10251.32,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9317.0
+2021-12-01,RM02,Aluminium Rod (EC grade),ton,2928.96,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2473.0
+2021-12-01,RM03,XLPE Insulation Compound,ton,2370.82,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-12-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1156.09,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-12-01,RM05,Semiconductive Compound (inner/outer screen),ton,3143.71,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-12-01,RM06,HDPE / MDPE Sheathing Compound,ton,1282.74,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-12-01,RM07,LSHF Compound,ton,3131.52,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-12-01,RM08,Polypropylene Filler & Tape,ton,1137.8,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2021-12-01,RM09,"Copper Tape (screen, CTS)",ton,11631.31,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9317.0
+2021-12-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,989.51,ESTIMATE,
+2021-12-01,RM11,Galvanized Steel Strip (armour),ton,878.09,ESTIMATE,
+2021-12-01,RM12,Wooden / Steel Cable Drum,unit,96.28,ESTIMATE,
+2022-01-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9566.14,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8822.0
+2022-01-01,RM02,Aluminium Rod (EC grade),ton,3022.29,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2705.0
+2022-01-01,RM03,XLPE Insulation Compound,ton,2894.93,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-01-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1385.91,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-01-01,RM05,Semiconductive Compound (inner/outer screen),ton,3862.35,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-01-01,RM06,HDPE / MDPE Sheathing Compound,ton,1542.75,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-01-01,RM07,LSHF Compound,ton,3686.23,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-01-01,RM08,Polypropylene Filler & Tape,ton,1333.98,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-01-01,RM09,"Copper Tape (screen, CTS)",ton,10853.89,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8822.0
+2022-01-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,928.67,ESTIMATE,
+2022-01-01,RM11,Galvanized Steel Strip (armour),ton,879.83,ESTIMATE,
+2022-01-01,RM12,Wooden / Steel Cable Drum,unit,96.33,ESTIMATE,
+2022-02-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9461.64,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8822.0
+2022-02-01,RM02,Aluminium Rod (EC grade),ton,2955.23,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2705.0
+2022-02-01,RM03,XLPE Insulation Compound,ton,2859.01,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-02-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1348.62,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-02-01,RM05,Semiconductive Compound (inner/outer screen),ton,3735.98,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-02-01,RM06,HDPE / MDPE Sheathing Compound,ton,1494.2,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-02-01,RM07,LSHF Compound,ton,3683.86,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-02-01,RM08,Polypropylene Filler & Tape,ton,1318.91,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-02-01,RM09,"Copper Tape (screen, CTS)",ton,10735.32,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8822.0
+2022-02-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,944.88,ESTIMATE,
+2022-02-01,RM11,Galvanized Steel Strip (armour),ton,900.11,ESTIMATE,
+2022-02-01,RM12,Wooden / Steel Cable Drum,unit,95.33,ESTIMATE,
+2022-03-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9439.74,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8822.0
+2022-03-01,RM02,Aluminium Rod (EC grade),ton,3074.78,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2705.0
+2022-03-01,RM03,XLPE Insulation Compound,ton,2812.31,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-03-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1393.28,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-03-01,RM05,Semiconductive Compound (inner/outer screen),ton,3865.92,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-03-01,RM06,HDPE / MDPE Sheathing Compound,ton,1504.32,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-03-01,RM07,LSHF Compound,ton,3553.94,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-03-01,RM08,Polypropylene Filler & Tape,ton,1322.91,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-03-01,RM09,"Copper Tape (screen, CTS)",ton,10710.47,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8822.0
+2022-03-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,916.45,ESTIMATE,
+2022-03-01,RM11,Galvanized Steel Strip (armour),ton,867.07,ESTIMATE,
+2022-03-01,RM12,Wooden / Steel Cable Drum,unit,96.25,ESTIMATE,
+2022-04-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9228.31,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8822.0
+2022-04-01,RM02,Aluminium Rod (EC grade),ton,3096.7,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2705.0
+2022-04-01,RM03,XLPE Insulation Compound,ton,2865.59,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-04-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1361.9,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-04-01,RM05,Semiconductive Compound (inner/outer screen),ton,3625.75,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-04-01,RM06,HDPE / MDPE Sheathing Compound,ton,1457.88,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-04-01,RM07,LSHF Compound,ton,3641.7,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-04-01,RM08,Polypropylene Filler & Tape,ton,1321.67,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-04-01,RM09,"Copper Tape (screen, CTS)",ton,10470.59,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8822.0
+2022-04-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,963.1,ESTIMATE,
+2022-04-01,RM11,Galvanized Steel Strip (armour),ton,927.42,ESTIMATE,
+2022-04-01,RM12,Wooden / Steel Cable Drum,unit,94.36,ESTIMATE,
+2022-05-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9134.21,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8822.0
+2022-05-01,RM02,Aluminium Rod (EC grade),ton,3063.89,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2705.0
+2022-05-01,RM03,XLPE Insulation Compound,ton,2882.39,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-05-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1373.24,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-05-01,RM05,Semiconductive Compound (inner/outer screen),ton,3715.07,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-05-01,RM06,HDPE / MDPE Sheathing Compound,ton,1480.71,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-05-01,RM07,LSHF Compound,ton,3685.21,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-05-01,RM08,Polypropylene Filler & Tape,ton,1300.66,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-05-01,RM09,"Copper Tape (screen, CTS)",ton,10363.82,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8822.0
+2022-05-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,971.68,ESTIMATE,
+2022-05-01,RM11,Galvanized Steel Strip (armour),ton,926.59,ESTIMATE,
+2022-05-01,RM12,Wooden / Steel Cable Drum,unit,95.07,ESTIMATE,
+2022-06-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9281.22,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8822.0
+2022-06-01,RM02,Aluminium Rod (EC grade),ton,3007.14,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2705.0
+2022-06-01,RM03,XLPE Insulation Compound,ton,2873.2,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-06-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1346.94,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-06-01,RM05,Semiconductive Compound (inner/outer screen),ton,3875.48,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-06-01,RM06,HDPE / MDPE Sheathing Compound,ton,1507.99,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-06-01,RM07,LSHF Compound,ton,3642.25,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-06-01,RM08,Polypropylene Filler & Tape,ton,1322.18,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-06-01,RM09,"Copper Tape (screen, CTS)",ton,10530.62,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8822.0
+2022-06-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,958.57,ESTIMATE,
+2022-06-01,RM11,Galvanized Steel Strip (armour),ton,888.28,ESTIMATE,
+2022-06-01,RM12,Wooden / Steel Cable Drum,unit,95.54,ESTIMATE,
+2022-07-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9194.89,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8822.0
+2022-07-01,RM02,Aluminium Rod (EC grade),ton,3159.0,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2705.0
+2022-07-01,RM03,XLPE Insulation Compound,ton,2822.6,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-07-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1386.35,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-07-01,RM05,Semiconductive Compound (inner/outer screen),ton,3704.87,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-07-01,RM06,HDPE / MDPE Sheathing Compound,ton,1506.13,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-07-01,RM07,LSHF Compound,ton,3626.3,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-07-01,RM08,Polypropylene Filler & Tape,ton,1326.36,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-07-01,RM09,"Copper Tape (screen, CTS)",ton,10432.66,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8822.0
+2022-07-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,1006.26,ESTIMATE,
+2022-07-01,RM11,Galvanized Steel Strip (armour),ton,914.48,ESTIMATE,
+2022-07-01,RM12,Wooden / Steel Cable Drum,unit,95.51,ESTIMATE,
+2022-08-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8854.88,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8822.0
+2022-08-01,RM02,Aluminium Rod (EC grade),ton,3059.84,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2705.0
+2022-08-01,RM03,XLPE Insulation Compound,ton,2864.16,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-08-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1354.63,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-08-01,RM05,Semiconductive Compound (inner/outer screen),ton,3803.82,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-08-01,RM06,HDPE / MDPE Sheathing Compound,ton,1521.89,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-08-01,RM07,LSHF Compound,ton,3636.37,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-08-01,RM08,Polypropylene Filler & Tape,ton,1354.27,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-08-01,RM09,"Copper Tape (screen, CTS)",ton,10046.89,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8822.0
+2022-08-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,947.87,ESTIMATE,
+2022-08-01,RM11,Galvanized Steel Strip (armour),ton,868.09,ESTIMATE,
+2022-08-01,RM12,Wooden / Steel Cable Drum,unit,93.76,ESTIMATE,
+2022-09-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8846.08,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8822.0
+2022-09-01,RM02,Aluminium Rod (EC grade),ton,3136.23,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2705.0
+2022-09-01,RM03,XLPE Insulation Compound,ton,2816.87,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-09-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1370.42,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-09-01,RM05,Semiconductive Compound (inner/outer screen),ton,3778.15,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-09-01,RM06,HDPE / MDPE Sheathing Compound,ton,1465.46,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-09-01,RM07,LSHF Compound,ton,3628.49,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-09-01,RM08,Polypropylene Filler & Tape,ton,1324.99,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-09-01,RM09,"Copper Tape (screen, CTS)",ton,10036.89,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8822.0
+2022-09-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,936.07,ESTIMATE,
+2022-09-01,RM11,Galvanized Steel Strip (armour),ton,883.63,ESTIMATE,
+2022-09-01,RM12,Wooden / Steel Cable Drum,unit,95.17,ESTIMATE,
+2022-10-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9088.04,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8822.0
+2022-10-01,RM02,Aluminium Rod (EC grade),ton,2964.57,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2705.0
+2022-10-01,RM03,XLPE Insulation Compound,ton,2899.71,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-10-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1363.63,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-10-01,RM05,Semiconductive Compound (inner/outer screen),ton,3700.76,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-10-01,RM06,HDPE / MDPE Sheathing Compound,ton,1483.02,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-10-01,RM07,LSHF Compound,ton,3648.66,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-10-01,RM08,Polypropylene Filler & Tape,ton,1310.28,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-10-01,RM09,"Copper Tape (screen, CTS)",ton,10311.44,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8822.0
+2022-10-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,943.65,ESTIMATE,
+2022-10-01,RM11,Galvanized Steel Strip (armour),ton,895.84,ESTIMATE,
+2022-10-01,RM12,Wooden / Steel Cable Drum,unit,92.94,ESTIMATE,
+2022-11-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9018.69,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8822.0
+2022-11-01,RM02,Aluminium Rod (EC grade),ton,2913.97,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2705.0
+2022-11-01,RM03,XLPE Insulation Compound,ton,2854.63,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-11-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1364.52,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-11-01,RM05,Semiconductive Compound (inner/outer screen),ton,3831.84,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-11-01,RM06,HDPE / MDPE Sheathing Compound,ton,1474.64,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-11-01,RM07,LSHF Compound,ton,3657.77,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-11-01,RM08,Polypropylene Filler & Tape,ton,1328.56,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-11-01,RM09,"Copper Tape (screen, CTS)",ton,10232.75,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8822.0
+2022-11-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,928.76,ESTIMATE,
+2022-11-01,RM11,Galvanized Steel Strip (armour),ton,877.52,ESTIMATE,
+2022-11-01,RM12,Wooden / Steel Cable Drum,unit,94.15,ESTIMATE,
+2022-12-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8984.71,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8822.0
+2022-12-01,RM02,Aluminium Rod (EC grade),ton,2901.55,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2705.0
+2022-12-01,RM03,XLPE Insulation Compound,ton,2890.7,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-12-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1364.25,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-12-01,RM05,Semiconductive Compound (inner/outer screen),ton,3706.11,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-12-01,RM06,HDPE / MDPE Sheathing Compound,ton,1421.52,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-12-01,RM07,LSHF Compound,ton,3611.23,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-12-01,RM08,Polypropylene Filler & Tape,ton,1327.23,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2022-12-01,RM09,"Copper Tape (screen, CTS)",ton,10194.19,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8822.0
+2022-12-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,958.45,ESTIMATE,
+2022-12-01,RM11,Galvanized Steel Strip (armour),ton,907.73,ESTIMATE,
+2022-12-01,RM12,Wooden / Steel Cable Drum,unit,94.38,ESTIMATE,
+2023-01-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8825.82,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8490.0
+2023-01-01,RM02,Aluminium Rod (EC grade),ton,2818.04,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2256.0
+2023-01-01,RM03,XLPE Insulation Compound,ton,2591.14,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-01-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1265.61,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-01-01,RM05,Semiconductive Compound (inner/outer screen),ton,3393.08,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-01-01,RM06,HDPE / MDPE Sheathing Compound,ton,1303.36,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-01-01,RM07,LSHF Compound,ton,3350.49,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-01-01,RM08,Polypropylene Filler & Tape,ton,1180.6,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-01-01,RM09,"Copper Tape (screen, CTS)",ton,10013.91,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8490.0
+2023-01-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,976.13,ESTIMATE,
+2023-01-01,RM11,Galvanized Steel Strip (armour),ton,930.49,ESTIMATE,
+2023-01-01,RM12,Wooden / Steel Cable Drum,unit,96.45,ESTIMATE,
+2023-02-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9156.26,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8490.0
+2023-02-01,RM02,Aluminium Rod (EC grade),ton,2650.55,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2256.0
+2023-02-01,RM03,XLPE Insulation Compound,ton,2635.26,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-02-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1284.83,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-02-01,RM05,Semiconductive Compound (inner/outer screen),ton,3343.79,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-02-01,RM06,HDPE / MDPE Sheathing Compound,ton,1355.14,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-02-01,RM07,LSHF Compound,ton,3311.83,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-02-01,RM08,Polypropylene Filler & Tape,ton,1182.59,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-02-01,RM09,"Copper Tape (screen, CTS)",ton,10388.84,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8490.0
+2023-02-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,988.22,ESTIMATE,
+2023-02-01,RM11,Galvanized Steel Strip (armour),ton,889.55,ESTIMATE,
+2023-02-01,RM12,Wooden / Steel Cable Drum,unit,93.61,ESTIMATE,
+2023-03-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8791.08,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8490.0
+2023-03-01,RM02,Aluminium Rod (EC grade),ton,2581.8,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2256.0
+2023-03-01,RM03,XLPE Insulation Compound,ton,2610.44,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-03-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1269.33,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-03-01,RM05,Semiconductive Compound (inner/outer screen),ton,3369.35,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-03-01,RM06,HDPE / MDPE Sheathing Compound,ton,1337.86,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-03-01,RM07,LSHF Compound,ton,3324.95,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-03-01,RM08,Polypropylene Filler & Tape,ton,1174.34,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-03-01,RM09,"Copper Tape (screen, CTS)",ton,9974.5,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8490.0
+2023-03-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,935.32,ESTIMATE,
+2023-03-01,RM11,Galvanized Steel Strip (armour),ton,884.91,ESTIMATE,
+2023-03-01,RM12,Wooden / Steel Cable Drum,unit,94.17,ESTIMATE,
+2023-04-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9007.54,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8490.0
+2023-04-01,RM02,Aluminium Rod (EC grade),ton,2561.96,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2256.0
+2023-04-01,RM03,XLPE Insulation Compound,ton,2594.45,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-04-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1284.58,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-04-01,RM05,Semiconductive Compound (inner/outer screen),ton,3446.28,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-04-01,RM06,HDPE / MDPE Sheathing Compound,ton,1350.45,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-04-01,RM07,LSHF Compound,ton,3288.88,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-04-01,RM08,Polypropylene Filler & Tape,ton,1215.74,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-04-01,RM09,"Copper Tape (screen, CTS)",ton,10220.09,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8490.0
+2023-04-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,958.14,ESTIMATE,
+2023-04-01,RM11,Galvanized Steel Strip (armour),ton,916.04,ESTIMATE,
+2023-04-01,RM12,Wooden / Steel Cable Drum,unit,97.62,ESTIMATE,
+2023-05-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8569.34,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8490.0
+2023-05-01,RM02,Aluminium Rod (EC grade),ton,2482.38,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2256.0
+2023-05-01,RM03,XLPE Insulation Compound,ton,2560.68,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-05-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1207.76,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-05-01,RM05,Semiconductive Compound (inner/outer screen),ton,3398.89,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-05-01,RM06,HDPE / MDPE Sheathing Compound,ton,1351.61,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-05-01,RM07,LSHF Compound,ton,3314.2,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-05-01,RM08,Polypropylene Filler & Tape,ton,1189.22,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-05-01,RM09,"Copper Tape (screen, CTS)",ton,9722.91,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8490.0
+2023-05-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,945.58,ESTIMATE,
+2023-05-01,RM11,Galvanized Steel Strip (armour),ton,910.06,ESTIMATE,
+2023-05-01,RM12,Wooden / Steel Cable Drum,unit,96.16,ESTIMATE,
+2023-06-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8598.65,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8490.0
+2023-06-01,RM02,Aluminium Rod (EC grade),ton,2536.48,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2256.0
+2023-06-01,RM03,XLPE Insulation Compound,ton,2651.91,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-06-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1209.38,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-06-01,RM05,Semiconductive Compound (inner/outer screen),ton,3315.92,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-06-01,RM06,HDPE / MDPE Sheathing Compound,ton,1379.6,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-06-01,RM07,LSHF Compound,ton,3330.11,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-06-01,RM08,Polypropylene Filler & Tape,ton,1214.28,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-06-01,RM09,"Copper Tape (screen, CTS)",ton,9756.16,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8490.0
+2023-06-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,944.59,ESTIMATE,
+2023-06-01,RM11,Galvanized Steel Strip (armour),ton,891.47,ESTIMATE,
+2023-06-01,RM12,Wooden / Steel Cable Drum,unit,95.38,ESTIMATE,
+2023-07-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8317.04,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8490.0
+2023-07-01,RM02,Aluminium Rod (EC grade),ton,2543.83,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2256.0
+2023-07-01,RM03,XLPE Insulation Compound,ton,2563.35,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-07-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1221.31,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-07-01,RM05,Semiconductive Compound (inner/outer screen),ton,3343.36,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-07-01,RM06,HDPE / MDPE Sheathing Compound,ton,1352.36,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-07-01,RM07,LSHF Compound,ton,3331.54,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-07-01,RM08,Polypropylene Filler & Tape,ton,1229.72,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-07-01,RM09,"Copper Tape (screen, CTS)",ton,9436.64,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8490.0
+2023-07-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,957.06,ESTIMATE,
+2023-07-01,RM11,Galvanized Steel Strip (armour),ton,908.51,ESTIMATE,
+2023-07-01,RM12,Wooden / Steel Cable Drum,unit,98.21,ESTIMATE,
+2023-08-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8760.17,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8490.0
+2023-08-01,RM02,Aluminium Rod (EC grade),ton,2396.04,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2256.0
+2023-08-01,RM03,XLPE Insulation Compound,ton,2569.71,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-08-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1232.01,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-08-01,RM05,Semiconductive Compound (inner/outer screen),ton,3372.57,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-08-01,RM06,HDPE / MDPE Sheathing Compound,ton,1348.05,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-08-01,RM07,LSHF Compound,ton,3400.15,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-08-01,RM08,Polypropylene Filler & Tape,ton,1193.72,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-08-01,RM09,"Copper Tape (screen, CTS)",ton,9939.43,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8490.0
+2023-08-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,974.84,ESTIMATE,
+2023-08-01,RM11,Galvanized Steel Strip (armour),ton,891.49,ESTIMATE,
+2023-08-01,RM12,Wooden / Steel Cable Drum,unit,95.93,ESTIMATE,
+2023-09-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8939.11,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8490.0
+2023-09-01,RM02,Aluminium Rod (EC grade),ton,2323.48,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2256.0
+2023-09-01,RM03,XLPE Insulation Compound,ton,2626.57,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-09-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1259.99,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-09-01,RM05,Semiconductive Compound (inner/outer screen),ton,3438.3,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-09-01,RM06,HDPE / MDPE Sheathing Compound,ton,1336.05,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-09-01,RM07,LSHF Compound,ton,3372.08,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-09-01,RM08,Polypropylene Filler & Tape,ton,1217.66,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-09-01,RM09,"Copper Tape (screen, CTS)",ton,10142.45,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8490.0
+2023-09-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,936.66,ESTIMATE,
+2023-09-01,RM11,Galvanized Steel Strip (armour),ton,909.1,ESTIMATE,
+2023-09-01,RM12,Wooden / Steel Cable Drum,unit,92.96,ESTIMATE,
+2023-10-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9136.28,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8490.0
+2023-10-01,RM02,Aluminium Rod (EC grade),ton,2324.95,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2256.0
+2023-10-01,RM03,XLPE Insulation Compound,ton,2603.7,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-10-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1228.04,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-10-01,RM05,Semiconductive Compound (inner/outer screen),ton,3436.64,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-10-01,RM06,HDPE / MDPE Sheathing Compound,ton,1410.03,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-10-01,RM07,LSHF Compound,ton,3372.81,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-10-01,RM08,Polypropylene Filler & Tape,ton,1213.15,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-10-01,RM09,"Copper Tape (screen, CTS)",ton,10366.17,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8490.0
+2023-10-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,932.85,ESTIMATE,
+2023-10-01,RM11,Galvanized Steel Strip (armour),ton,906.84,ESTIMATE,
+2023-10-01,RM12,Wooden / Steel Cable Drum,unit,97.25,ESTIMATE,
+2023-11-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8834.41,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8490.0
+2023-11-01,RM02,Aluminium Rod (EC grade),ton,2438.95,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2256.0
+2023-11-01,RM03,XLPE Insulation Compound,ton,2596.55,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-11-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1252.42,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-11-01,RM05,Semiconductive Compound (inner/outer screen),ton,3313.59,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-11-01,RM06,HDPE / MDPE Sheathing Compound,ton,1332.68,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-11-01,RM07,LSHF Compound,ton,3208.51,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-11-01,RM08,Polypropylene Filler & Tape,ton,1234.46,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-11-01,RM09,"Copper Tape (screen, CTS)",ton,10023.65,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8490.0
+2023-11-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,958.98,ESTIMATE,
+2023-11-01,RM11,Galvanized Steel Strip (armour),ton,913.04,ESTIMATE,
+2023-11-01,RM12,Wooden / Steel Cable Drum,unit,94.61,ESTIMATE,
+2023-12-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9019.49,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,8490.0
+2023-12-01,RM02,Aluminium Rod (EC grade),ton,2662.19,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2256.0
+2023-12-01,RM03,XLPE Insulation Compound,ton,2543.03,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-12-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1253.3,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-12-01,RM05,Semiconductive Compound (inner/outer screen),ton,3367.54,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-12-01,RM06,HDPE / MDPE Sheathing Compound,ton,1330.36,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-12-01,RM07,LSHF Compound,ton,3302.74,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-12-01,RM08,Polypropylene Filler & Tape,ton,1201.98,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2023-12-01,RM09,"Copper Tape (screen, CTS)",ton,10233.65,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,8490.0
+2023-12-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,946.57,ESTIMATE,
+2023-12-01,RM11,Galvanized Steel Strip (armour),ton,886.06,ESTIMATE,
+2023-12-01,RM12,Wooden / Steel Cable Drum,unit,93.13,ESTIMATE,
+2024-01-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9022.21,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9142.0
+2024-01-01,RM02,Aluminium Rod (EC grade),ton,2661.37,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2419.0
+2024-01-01,RM03,XLPE Insulation Compound,ton,2566.46,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-01-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1256.38,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-01-01,RM05,Semiconductive Compound (inner/outer screen),ton,3275.06,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-01-01,RM06,HDPE / MDPE Sheathing Compound,ton,1319.32,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-01-01,RM07,LSHF Compound,ton,3249.18,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-01-01,RM08,Polypropylene Filler & Tape,ton,1181.59,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-01-01,RM09,"Copper Tape (screen, CTS)",ton,10236.74,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9142.0
+2024-01-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,938.74,ESTIMATE,
+2024-01-01,RM11,Galvanized Steel Strip (armour),ton,934.71,ESTIMATE,
+2024-01-01,RM12,Wooden / Steel Cable Drum,unit,95.76,ESTIMATE,
+2024-02-01,RM01,Copper Rod 8mm (Cu-ETP),ton,8975.92,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9142.0
+2024-02-01,RM02,Aluminium Rod (EC grade),ton,2689.17,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2419.0
+2024-02-01,RM03,XLPE Insulation Compound,ton,2528.28,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-02-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1198.92,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-02-01,RM05,Semiconductive Compound (inner/outer screen),ton,3347.15,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-02-01,RM06,HDPE / MDPE Sheathing Compound,ton,1362.03,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-02-01,RM07,LSHF Compound,ton,3266.53,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-02-01,RM08,Polypropylene Filler & Tape,ton,1143.26,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-02-01,RM09,"Copper Tape (screen, CTS)",ton,10184.22,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9142.0
+2024-02-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,923.84,ESTIMATE,
+2024-02-01,RM11,Galvanized Steel Strip (armour),ton,902.21,ESTIMATE,
+2024-02-01,RM12,Wooden / Steel Cable Drum,unit,97.03,ESTIMATE,
+2024-03-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9189.61,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9142.0
+2024-03-01,RM02,Aluminium Rod (EC grade),ton,2606.79,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2419.0
+2024-03-01,RM03,XLPE Insulation Compound,ton,2571.64,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-03-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1236.52,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-03-01,RM05,Semiconductive Compound (inner/outer screen),ton,3409.83,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-03-01,RM06,HDPE / MDPE Sheathing Compound,ton,1357.57,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-03-01,RM07,LSHF Compound,ton,3224.06,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-03-01,RM08,Polypropylene Filler & Tape,ton,1192.19,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-03-01,RM09,"Copper Tape (screen, CTS)",ton,10426.67,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9142.0
+2024-03-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,931.81,ESTIMATE,
+2024-03-01,RM11,Galvanized Steel Strip (armour),ton,880.62,ESTIMATE,
+2024-03-01,RM12,Wooden / Steel Cable Drum,unit,96.12,ESTIMATE,
+2024-04-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9426.44,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9142.0
+2024-04-01,RM02,Aluminium Rod (EC grade),ton,2563.99,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2419.0
+2024-04-01,RM03,XLPE Insulation Compound,ton,2511.42,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-04-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1236.9,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-04-01,RM05,Semiconductive Compound (inner/outer screen),ton,3371.63,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-04-01,RM06,HDPE / MDPE Sheathing Compound,ton,1349.67,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-04-01,RM07,LSHF Compound,ton,3200.91,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-04-01,RM08,Polypropylene Filler & Tape,ton,1191.17,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-04-01,RM09,"Copper Tape (screen, CTS)",ton,10695.39,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9142.0
+2024-04-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,947.62,ESTIMATE,
+2024-04-01,RM11,Galvanized Steel Strip (armour),ton,926.75,ESTIMATE,
+2024-04-01,RM12,Wooden / Steel Cable Drum,unit,93.59,ESTIMATE,
+2024-05-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9437.21,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9142.0
+2024-05-01,RM02,Aluminium Rod (EC grade),ton,2469.93,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2419.0
+2024-05-01,RM03,XLPE Insulation Compound,ton,2523.48,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-05-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1243.01,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-05-01,RM05,Semiconductive Compound (inner/outer screen),ton,3312.74,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-05-01,RM06,HDPE / MDPE Sheathing Compound,ton,1306.59,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-05-01,RM07,LSHF Compound,ton,3301.58,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-05-01,RM08,Polypropylene Filler & Tape,ton,1192.05,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-05-01,RM09,"Copper Tape (screen, CTS)",ton,10707.61,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9142.0
+2024-05-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,890.88,ESTIMATE,
+2024-05-01,RM11,Galvanized Steel Strip (armour),ton,883.42,ESTIMATE,
+2024-05-01,RM12,Wooden / Steel Cable Drum,unit,92.89,ESTIMATE,
+2024-06-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9272.4,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9142.0
+2024-06-01,RM02,Aluminium Rod (EC grade),ton,2575.71,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2419.0
+2024-06-01,RM03,XLPE Insulation Compound,ton,2591.02,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-06-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1261.01,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-06-01,RM05,Semiconductive Compound (inner/outer screen),ton,3459.42,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-06-01,RM06,HDPE / MDPE Sheathing Compound,ton,1346.57,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-06-01,RM07,LSHF Compound,ton,3203.57,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-06-01,RM08,Polypropylene Filler & Tape,ton,1164.31,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-06-01,RM09,"Copper Tape (screen, CTS)",ton,10520.61,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9142.0
+2024-06-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,931.9,ESTIMATE,
+2024-06-01,RM11,Galvanized Steel Strip (armour),ton,908.81,ESTIMATE,
+2024-06-01,RM12,Wooden / Steel Cable Drum,unit,97.4,ESTIMATE,
+2024-07-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9147.8,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9142.0
+2024-07-01,RM02,Aluminium Rod (EC grade),ton,2725.65,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2419.0
+2024-07-01,RM03,XLPE Insulation Compound,ton,2492.39,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-07-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1245.03,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-07-01,RM05,Semiconductive Compound (inner/outer screen),ton,3402.52,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-07-01,RM06,HDPE / MDPE Sheathing Compound,ton,1338.77,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-07-01,RM07,LSHF Compound,ton,3415.23,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-07-01,RM08,Polypropylene Filler & Tape,ton,1193.92,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-07-01,RM09,"Copper Tape (screen, CTS)",ton,10379.24,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9142.0
+2024-07-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,950.62,ESTIMATE,
+2024-07-01,RM11,Galvanized Steel Strip (armour),ton,910.99,ESTIMATE,
+2024-07-01,RM12,Wooden / Steel Cable Drum,unit,93.97,ESTIMATE,
+2024-08-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9641.28,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9142.0
+2024-08-01,RM02,Aluminium Rod (EC grade),ton,2719.72,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2419.0
+2024-08-01,RM03,XLPE Insulation Compound,ton,2523.9,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-08-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1241.57,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-08-01,RM05,Semiconductive Compound (inner/outer screen),ton,3413.89,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-08-01,RM06,HDPE / MDPE Sheathing Compound,ton,1327.76,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-08-01,RM07,LSHF Compound,ton,3302.34,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-08-01,RM08,Polypropylene Filler & Tape,ton,1177.73,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-08-01,RM09,"Copper Tape (screen, CTS)",ton,10939.14,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9142.0
+2024-08-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,981.0,ESTIMATE,
+2024-08-01,RM11,Galvanized Steel Strip (armour),ton,903.87,ESTIMATE,
+2024-08-01,RM12,Wooden / Steel Cable Drum,unit,96.02,ESTIMATE,
+2024-09-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9767.25,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9142.0
+2024-09-01,RM02,Aluminium Rod (EC grade),ton,2869.8,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2419.0
+2024-09-01,RM03,XLPE Insulation Compound,ton,2595.71,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-09-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1208.73,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-09-01,RM05,Semiconductive Compound (inner/outer screen),ton,3346.65,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-09-01,RM06,HDPE / MDPE Sheathing Compound,ton,1369.24,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-09-01,RM07,LSHF Compound,ton,3258.9,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-09-01,RM08,Polypropylene Filler & Tape,ton,1209.32,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-09-01,RM09,"Copper Tape (screen, CTS)",ton,11082.07,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9142.0
+2024-09-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,966.8,ESTIMATE,
+2024-09-01,RM11,Galvanized Steel Strip (armour),ton,867.1,ESTIMATE,
+2024-09-01,RM12,Wooden / Steel Cable Drum,unit,96.34,ESTIMATE,
+2024-10-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9901.66,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9142.0
+2024-10-01,RM02,Aluminium Rod (EC grade),ton,2868.79,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2419.0
+2024-10-01,RM03,XLPE Insulation Compound,ton,2524.32,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-10-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1238.59,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-10-01,RM05,Semiconductive Compound (inner/outer screen),ton,3334.9,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-10-01,RM06,HDPE / MDPE Sheathing Compound,ton,1332.89,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-10-01,RM07,LSHF Compound,ton,3253.65,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-10-01,RM08,Polypropylene Filler & Tape,ton,1188.72,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-10-01,RM09,"Copper Tape (screen, CTS)",ton,11234.58,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9142.0
+2024-10-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,941.48,ESTIMATE,
+2024-10-01,RM11,Galvanized Steel Strip (armour),ton,875.68,ESTIMATE,
+2024-10-01,RM12,Wooden / Steel Cable Drum,unit,93.08,ESTIMATE,
+2024-11-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10363.9,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9142.0
+2024-11-01,RM02,Aluminium Rod (EC grade),ton,2856.45,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2419.0
+2024-11-01,RM03,XLPE Insulation Compound,ton,2601.48,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-11-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1265.67,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-11-01,RM05,Semiconductive Compound (inner/outer screen),ton,3367.52,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-11-01,RM06,HDPE / MDPE Sheathing Compound,ton,1349.29,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-11-01,RM07,LSHF Compound,ton,3304.84,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-11-01,RM08,Polypropylene Filler & Tape,ton,1160.14,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-11-01,RM09,"Copper Tape (screen, CTS)",ton,11759.04,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9142.0
+2024-11-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,914.42,ESTIMATE,
+2024-11-01,RM11,Galvanized Steel Strip (armour),ton,899.08,ESTIMATE,
+2024-11-01,RM12,Wooden / Steel Cable Drum,unit,91.4,ESTIMATE,
+2024-12-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9946.47,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9142.0
+2024-12-01,RM02,Aluminium Rod (EC grade),ton,2903.99,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2419.0
+2024-12-01,RM03,XLPE Insulation Compound,ton,2555.72,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-12-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1206.4,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-12-01,RM05,Semiconductive Compound (inner/outer screen),ton,3324.4,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-12-01,RM06,HDPE / MDPE Sheathing Compound,ton,1317.44,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-12-01,RM07,LSHF Compound,ton,3282.52,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-12-01,RM08,Polypropylene Filler & Tape,ton,1172.91,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2024-12-01,RM09,"Copper Tape (screen, CTS)",ton,11285.42,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9142.0
+2024-12-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,928.19,ESTIMATE,
+2024-12-01,RM11,Galvanized Steel Strip (armour),ton,900.88,ESTIMATE,
+2024-12-01,RM12,Wooden / Steel Cable Drum,unit,100.64,ESTIMATE,
+2025-01-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10349.71,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9947.0
+2025-01-01,RM02,Aluminium Rod (EC grade),ton,2936.88,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2632.0
+2025-01-01,RM03,XLPE Insulation Compound,ton,2402.03,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-01-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1112.91,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-01-01,RM05,Semiconductive Compound (inner/outer screen),ton,3122.34,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-01-01,RM06,HDPE / MDPE Sheathing Compound,ton,1285.8,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-01-01,RM07,LSHF Compound,ton,3034.04,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-01-01,RM08,Polypropylene Filler & Tape,ton,1121.64,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-01-01,RM09,"Copper Tape (screen, CTS)",ton,11742.94,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9947.0
+2025-01-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,971.09,ESTIMATE,
+2025-01-01,RM11,Galvanized Steel Strip (armour),ton,921.39,ESTIMATE,
+2025-01-01,RM12,Wooden / Steel Cable Drum,unit,97.0,ESTIMATE,
+2025-02-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10878.3,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9947.0
+2025-02-01,RM02,Aluminium Rod (EC grade),ton,3022.83,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2632.0
+2025-02-01,RM03,XLPE Insulation Compound,ton,2394.52,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-02-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1143.18,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-02-01,RM05,Semiconductive Compound (inner/outer screen),ton,3105.04,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-02-01,RM06,HDPE / MDPE Sheathing Compound,ton,1240.29,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-02-01,RM07,LSHF Compound,ton,3045.75,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-02-01,RM08,Polypropylene Filler & Tape,ton,1079.44,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-02-01,RM09,"Copper Tape (screen, CTS)",ton,12342.68,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9947.0
+2025-02-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,944.67,ESTIMATE,
+2025-02-01,RM11,Galvanized Steel Strip (armour),ton,899.27,ESTIMATE,
+2025-02-01,RM12,Wooden / Steel Cable Drum,unit,95.2,ESTIMATE,
+2025-03-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10856.97,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9947.0
+2025-03-01,RM02,Aluminium Rod (EC grade),ton,2914.13,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2632.0
+2025-03-01,RM03,XLPE Insulation Compound,ton,2373.33,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-03-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1160.22,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-03-01,RM05,Semiconductive Compound (inner/outer screen),ton,3113.21,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-03-01,RM06,HDPE / MDPE Sheathing Compound,ton,1231.08,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-03-01,RM07,LSHF Compound,ton,2970.21,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-03-01,RM08,Polypropylene Filler & Tape,ton,1087.66,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-03-01,RM09,"Copper Tape (screen, CTS)",ton,12318.48,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9947.0
+2025-03-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,954.36,ESTIMATE,
+2025-03-01,RM11,Galvanized Steel Strip (armour),ton,902.15,ESTIMATE,
+2025-03-01,RM12,Wooden / Steel Cable Drum,unit,91.13,ESTIMATE,
+2025-04-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10679.7,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9947.0
+2025-04-01,RM02,Aluminium Rod (EC grade),ton,2726.02,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2632.0
+2025-04-01,RM03,XLPE Insulation Compound,ton,2417.46,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-04-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1134.27,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-04-01,RM05,Semiconductive Compound (inner/outer screen),ton,3075.89,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-04-01,RM06,HDPE / MDPE Sheathing Compound,ton,1258.76,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-04-01,RM07,LSHF Compound,ton,3079.17,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-04-01,RM08,Polypropylene Filler & Tape,ton,1088.75,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-04-01,RM09,"Copper Tape (screen, CTS)",ton,12117.35,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9947.0
+2025-04-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,943.24,ESTIMATE,
+2025-04-01,RM11,Galvanized Steel Strip (armour),ton,877.97,ESTIMATE,
+2025-04-01,RM12,Wooden / Steel Cable Drum,unit,96.55,ESTIMATE,
+2025-05-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10233.06,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9947.0
+2025-05-01,RM02,Aluminium Rod (EC grade),ton,2830.41,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2632.0
+2025-05-01,RM03,XLPE Insulation Compound,ton,2416.76,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-05-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1138.8,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-05-01,RM05,Semiconductive Compound (inner/outer screen),ton,3183.16,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-05-01,RM06,HDPE / MDPE Sheathing Compound,ton,1255.12,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-05-01,RM07,LSHF Compound,ton,3020.75,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-05-01,RM08,Polypropylene Filler & Tape,ton,1112.41,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-05-01,RM09,"Copper Tape (screen, CTS)",ton,11610.59,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9947.0
+2025-05-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,918.56,ESTIMATE,
+2025-05-01,RM11,Galvanized Steel Strip (armour),ton,895.27,ESTIMATE,
+2025-05-01,RM12,Wooden / Steel Cable Drum,unit,95.48,ESTIMATE,
+2025-06-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10400.45,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9947.0
+2025-06-01,RM02,Aluminium Rod (EC grade),ton,2837.11,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2632.0
+2025-06-01,RM03,XLPE Insulation Compound,ton,2384.03,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-06-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1181.6,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-06-01,RM05,Semiconductive Compound (inner/outer screen),ton,3132.59,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-06-01,RM06,HDPE / MDPE Sheathing Compound,ton,1244.86,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-06-01,RM07,LSHF Compound,ton,2966.08,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-06-01,RM08,Polypropylene Filler & Tape,ton,1097.4,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-06-01,RM09,"Copper Tape (screen, CTS)",ton,11800.51,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9947.0
+2025-06-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,935.11,ESTIMATE,
+2025-06-01,RM11,Galvanized Steel Strip (armour),ton,942.28,ESTIMATE,
+2025-06-01,RM12,Wooden / Steel Cable Drum,unit,94.21,ESTIMATE,
+2025-07-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10170.74,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9947.0
+2025-07-01,RM02,Aluminium Rod (EC grade),ton,2900.88,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2632.0
+2025-07-01,RM03,XLPE Insulation Compound,ton,2388.66,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-07-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1167.26,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-07-01,RM05,Semiconductive Compound (inner/outer screen),ton,3148.78,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-07-01,RM06,HDPE / MDPE Sheathing Compound,ton,1211.85,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-07-01,RM07,LSHF Compound,ton,3055.35,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-07-01,RM08,Polypropylene Filler & Tape,ton,1112.22,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-07-01,RM09,"Copper Tape (screen, CTS)",ton,11539.88,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9947.0
+2025-07-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,946.55,ESTIMATE,
+2025-07-01,RM11,Galvanized Steel Strip (armour),ton,908.36,ESTIMATE,
+2025-07-01,RM12,Wooden / Steel Cable Drum,unit,95.2,ESTIMATE,
+2025-08-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10095.77,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9947.0
+2025-08-01,RM02,Aluminium Rod (EC grade),ton,3078.48,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2632.0
+2025-08-01,RM03,XLPE Insulation Compound,ton,2334.86,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-08-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1136.66,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-08-01,RM05,Semiconductive Compound (inner/outer screen),ton,3119.04,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-08-01,RM06,HDPE / MDPE Sheathing Compound,ton,1227.17,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-08-01,RM07,LSHF Compound,ton,3050.83,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-08-01,RM08,Polypropylene Filler & Tape,ton,1117.03,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-08-01,RM09,"Copper Tape (screen, CTS)",ton,11454.82,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9947.0
+2025-08-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,955.19,ESTIMATE,
+2025-08-01,RM11,Galvanized Steel Strip (armour),ton,893.29,ESTIMATE,
+2025-08-01,RM12,Wooden / Steel Cable Drum,unit,97.59,ESTIMATE,
+2025-09-01,RM01,Copper Rod 8mm (Cu-ETP),ton,9983.62,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9947.0
+2025-09-01,RM02,Aluminium Rod (EC grade),ton,2938.18,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2632.0
+2025-09-01,RM03,XLPE Insulation Compound,ton,2389.32,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-09-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1152.43,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-09-01,RM05,Semiconductive Compound (inner/outer screen),ton,3082.36,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-09-01,RM06,HDPE / MDPE Sheathing Compound,ton,1234.02,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-09-01,RM07,LSHF Compound,ton,3071.67,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-09-01,RM08,Polypropylene Filler & Tape,ton,1112.77,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-09-01,RM09,"Copper Tape (screen, CTS)",ton,11327.57,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9947.0
+2025-09-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,946.45,ESTIMATE,
+2025-09-01,RM11,Galvanized Steel Strip (armour),ton,900.15,ESTIMATE,
+2025-09-01,RM12,Wooden / Steel Cable Drum,unit,95.38,ESTIMATE,
+2025-10-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10059.85,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9947.0
+2025-10-01,RM02,Aluminium Rod (EC grade),ton,3020.62,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2632.0
+2025-10-01,RM03,XLPE Insulation Compound,ton,2350.74,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-10-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1143.16,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-10-01,RM05,Semiconductive Compound (inner/outer screen),ton,3094.14,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-10-01,RM06,HDPE / MDPE Sheathing Compound,ton,1212.32,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-10-01,RM07,LSHF Compound,ton,3033.27,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-10-01,RM08,Polypropylene Filler & Tape,ton,1098.12,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-10-01,RM09,"Copper Tape (screen, CTS)",ton,11414.06,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9947.0
+2025-10-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,922.19,ESTIMATE,
+2025-10-01,RM11,Galvanized Steel Strip (armour),ton,885.69,ESTIMATE,
+2025-10-01,RM12,Wooden / Steel Cable Drum,unit,94.83,ESTIMATE,
+2025-11-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10356.57,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9947.0
+2025-11-01,RM02,Aluminium Rod (EC grade),ton,3086.23,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2632.0
+2025-11-01,RM03,XLPE Insulation Compound,ton,2281.0,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-11-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1149.51,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-11-01,RM05,Semiconductive Compound (inner/outer screen),ton,3130.54,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-11-01,RM06,HDPE / MDPE Sheathing Compound,ton,1250.11,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-11-01,RM07,LSHF Compound,ton,2999.34,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-11-01,RM08,Polypropylene Filler & Tape,ton,1077.01,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-11-01,RM09,"Copper Tape (screen, CTS)",ton,11750.72,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9947.0
+2025-11-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,961.94,ESTIMATE,
+2025-11-01,RM11,Galvanized Steel Strip (armour),ton,875.25,ESTIMATE,
+2025-11-01,RM12,Wooden / Steel Cable Drum,unit,96.03,ESTIMATE,
+2025-12-01,RM01,Copper Rod 8mm (Cu-ETP),ton,10073.83,Real WB annual copper (anchor) x1.04 rod premium; monthly path simulated,9947.0
+2025-12-01,RM02,Aluminium Rod (EC grade),ton,3082.32,Real WB annual aluminium (anchor) x1.12 rod premium; monthly path simulated,2632.0
+2025-12-01,RM03,XLPE Insulation Compound,ton,2360.24,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-12-01,RM04,PVC Compound (insulation / bedding / sheath),ton,1128.94,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-12-01,RM05,Semiconductive Compound (inner/outer screen),ton,3131.84,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-12-01,RM06,HDPE / MDPE Sheathing Compound,ton,1258.9,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-12-01,RM07,LSHF Compound,ton,3019.24,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-12-01,RM08,Polypropylene Filler & Tape,ton,1096.44,ESTIMATE: 2023 base price indexed 50% to real WB crude-oil annual avg,
+2025-12-01,RM09,"Copper Tape (screen, CTS)",ton,11429.92,Real WB annual copper (anchor) x1.18 fabrication premium; monthly path simulated,9947.0
+2025-12-01,RM10,Galvanized Steel Wire (armour / ACSR core),ton,917.92,ESTIMATE,
+2025-12-01,RM11,Galvanized Steel Strip (armour),ton,914.96,ESTIMATE,
+2025-12-01,RM12,Wooden / Steel Cable Drum,unit,95.14,ESTIMATE,

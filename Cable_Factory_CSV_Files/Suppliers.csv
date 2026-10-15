@@ -1,0 +1,20 @@
+﻿Supplier_ID,Supplier_Name,Country,Supply_Category,Typical_Lead_Time_Days,Supplier_Rating,Payment_Terms,Reliability_Pct_OnTime
+S001,Anatolia Polymers,Turkey,Polymer,20,3.9,Net 30,75.0
+S002,Andes Cathode Export,Chile ,Copper,55,4.7,LC at sight,70.6
+S003,Arabian Smelting Co.,Saudi Arabia,Aluminium,30,3.2,Net 45,62.5
+S004,Atlas Copper FZE,UAE,Copper,21,3.7,Net 45,67.9
+S005,Cairo PVC Compounds,Egypt,Polymer,6,4.0,Net 30,93.0
+S006,Delta Metals Trading,Egypt,Copper,8,,Net 60,89.9
+S007,Delta Steel Wire,Egypt,Steel,9,2.8,Net 45,85.9
+S008,Gulf Aluminium Rods,Bahrain,Aluminium,28,4.2,Net 45,68.2
+S009,Gulf Polymer Industries,Saudi Arabia ,Polymer,25,4.0,Net 45,67.1
+S010,Han River Compounds,South Korea,Polymer,45,4.5,Advance 30%,67.9
+S011,Hebei Steel Wire,China,Steel,48,5.0,Net 45,63.0
+S012,Marmara Galvanizing,Turkey,Steel,22,3.9,Net 45,65.3
+S013,Nile Packaging Industries,Egypt,Packaging,7,4.2,Advance 30%,93.9
+S014,Nordic Semicon AB,Sweden,Polymer,50,4.1,Net 45,73.8
+S015,Qalyub Wooden Drums,Egypt,Packaging,5,4.1,Advance 30%,89.7
+S016,Rhine Polymers GmbH,Germany,Polymer,40,3.9,Net 60,69.4
+S017,Sino Wire Rod Co.,China,Copper,45,4.2,Net 30,73.0
+S018,Suez Plastics Co.,Egypt,Polymer,8,,Net 45,85.7
+S019,Upper Nile Aluminium Rod,Egypt,Aluminium,10,3.6,Net 30,90.0

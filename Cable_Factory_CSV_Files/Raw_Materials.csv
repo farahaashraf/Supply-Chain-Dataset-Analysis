@@ -1,0 +1,13 @@
+﻿Material_ID,Material_Name,Category,Unit,Price_Benchmark,Reorder_Point_Ton_or_Unit
+RM01,Copper Rod 8mm (Cu-ETP),Copper,ton,WB / LME copper,470.6
+RM02,Aluminium Rod (EC grade),Aluminium,ton,WB / LME aluminium,57.1
+RM03,XLPE Insulation Compound,Polymer,ton,Estimate (oil-indexed),119.9
+RM04,PVC Compound (insulation / bedding / sheath),Polymer,ton,Estimate (oil-indexed),208.7
+RM05,Semiconductive Compound (inner/outer screen),Polymer,ton,Estimate (oil-indexed),7.1
+RM06,HDPE / MDPE Sheathing Compound,Polymer,ton,Estimate (oil-indexed),6.8
+RM07,LSHF Compound,Polymer,ton,Estimate (oil-indexed),5.5
+RM08,Polypropylene Filler & Tape,Polymer,ton,Estimate (oil-indexed),19.8
+RM09,"Copper Tape (screen, CTS)",Copper,ton,WB / LME copper,5.6
+RM10,Galvanized Steel Wire (armour / ACSR core),Steel,ton,Estimate,156.0
+RM11,Galvanized Steel Strip (armour),Steel,ton,Estimate,40.8
+RM12,Wooden / Steel Cable Drum,Packaging,unit,Estimate,745.8
